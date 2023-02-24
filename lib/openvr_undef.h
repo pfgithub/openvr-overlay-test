@@ -1,0 +1,1 @@
+#undef EXTERN_C
